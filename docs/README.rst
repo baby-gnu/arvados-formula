@@ -21,6 +21,8 @@ A SaltStack formula to install and configure an `Arvados cluster <https://arvado
 General notes
 -------------
 
+foo
+
 See the full `SaltStack Formulas installation and usage instructions
 <https://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html>`_.
 
